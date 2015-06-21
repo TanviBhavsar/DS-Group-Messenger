@@ -201,7 +201,6 @@ public class OnPTestClickListener implements OnClickListener {
     private boolean mytestQuery() {
         try {
             String[] key = {"iyzUkRQHBgskTxejzTdzLteiyilRT9oY","1PGlamEKhcBEt3R3dR9bmPlReMEwaqOL","TufHkgeRCgjj6FYaPFDUNgto948WBTr3"};
-         //   key[0] = "iayzUkRQHBgskTxejzTdzLteiyilRT9oY";
             String[] val = { "310DvwJtFOJ1aApf1z0edg5HHCFvD6ei","04gFVUvRAYWshCAF0ZhqSD4fGemH7XVg","VC0g7HEUVGvkqbIrUh3bJNfGBbJHUEwx"};
 
 
